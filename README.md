@@ -1,9 +1,9 @@
-Hello, I'm Miloš Lalić, Master in Electrical & Computer Engineering. Experienced Teaching Assistant with a demonstrated history of working in the higher education industry in the field of databases.
+Hello, I'm Miloš Lalić, Master in Electrical & Computer Engineering. 
+Experienced Teaching Assistant with a demonstrated history of working in the higher education industry in the field of databases.
 
 Currently interested to get into a field of DataScience/Machine Learning.
 
-
-  <img align="right" alt="GIF" src="https://github.com/miloslalic19/miloslalic19/blob/main/Coding.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/miloslalic19/miloslalic19/blob/main/Coding.gif?raw=true" width="500" height="320" />
   
 - 💼 Any internship opportunities? Contact me: [losmi66@hotmail.rs](mailto:losmi66@hotmail.rs)
 - 👔 Feel free to add me on LinkedIn: [Miloš Lalić](https://www.linkedin.com/in/milo%C5%A1-lali%C4%87-456350a7/)  
