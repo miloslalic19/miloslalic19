@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello, I'm Miloš Lalić, Master in Electrical & Computer Engineering. Experienced Teaching Assistant with a demonstrated history of working in the higher education industry in the field of databases.
 
-<!--
-**miloslalic19/miloslalic19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently interested to get into a field of DataScience/Machine Learning.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="right" alt="GIF" src="https://github.com/miloslalic19/miloslalic19/blob/main/Coding.gif?raw=true" width="500" height="320" />
+  
+- 💼 Any internship opportunities? Contact me: [losmi66@hotmail.rs](mailto:losmi66@hotmail.rs)
+- 👔 Feel free to add me on LinkedIn: [Miloš Lalić](https://www.linkedin.com/in/milo%C5%A1-lali%C4%87-456350a7/)  
+- 💬 Ask me about anything, I'm happy to help
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/miloslalic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
