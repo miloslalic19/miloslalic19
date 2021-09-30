@@ -9,6 +9,6 @@ Currently interested to get into a field of DataScience/Machine Learning.
 - 👔 Feel free to add me on LinkedIn: [Miloš Lalić](https://www.linkedin.com/in/milo%C5%A1-lali%C4%87-456350a7/)  
 - 💬 Ask me about anything, I'm happy to help
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 👉👈
 
 <a href="https://www.buymeacoffee.com/miloslalic" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
